@@ -21,7 +21,7 @@ function App() {
       </Routes>
     </BrowserRouter>
     <Footer/>
-      
+      {/* this is for testing purposes */}
     </div>
   );
 }
